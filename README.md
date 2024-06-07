@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# When Chickens Run the Farm: The Smart Smoker's Uprising
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Abordando o tema trouxe uma ia de uso gratuito e prático qual faz vídeos e roteiros em poucos cliques chamada invideo
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+*IA Generativa INVIDEO para roteirização, criação de vídeo e audio
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pensando em uma distopia onde galinhas fossem inteligentes solicitei que ia me trouxesse um resultado que simulasse algo proximo em vídeo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No vídeo final a IA teve dificuldades de criar as imagens como solicitei porém trouxe vídeos de galinha em fazendas relacionando a narrativa de galinhas fumantes com criadouros de humanos. Na parte de roteiro e áudio fiquei extremamente impressionado com a qualidade do roteiro com uma descrição da distopia sendo beeem bacana e a voz criada pela IA reproduzindo algo extremamente proximo da realidade humana.
+
+Link do vídeo:
+https://ai.invideo.io/workspace/9df2b628-1a4d-444d-b68c-6f4168120053/v20-copilot/60e8e820-fd85-48eb-9086-391012227947
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Achei interessante trazer uma ferramenta mais prática do que ir direto ao desenvolvimento principalmente pelo uso convencional. Para mostrar quais ferramentas são as mais utilizadas no dia-a-dia, trazendo mais facilidade para as pessoas.
 
 ## Links Interessantes
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://www.capcut.com/pt-br/tools/ai-video-generator
+https://www.canva.com/pt_br/recursos/gerador-video-ai/
+https://ai.invideo.io/
